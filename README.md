@@ -1,2 +1,2 @@
-# data_science_alem_do_basico
-Materiais sobre Ciência de Dados 
+# Data Science além do básico
+Materiais sobre Ciência de Dados.
